@@ -3,7 +3,7 @@
 * ⚡️ 20 years old
 * 🇷🇺 Russia, Saint Petersburg
 * 🎓 Studying at SUAI
-* 👨‍💻 Frontend Developer
+* 👨‍💻 Frontend Developer (React)
 
 ## Contact me 📞
 * 📧 [Email](mailto:finnerofficial@gmail.com)
