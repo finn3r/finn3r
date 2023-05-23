@@ -1,6 +1,6 @@
 ### Hi there :cowboy_hat_face:
 
-* ⚡️ 20 years old
+* ⚡️ 21 years old
 * 🇷🇺 Russia, Saint Petersburg
 * 🎓 Studying at SUAI
 * 👨‍💻 Frontend Developer (React)
